@@ -3,7 +3,7 @@
 <p align="center">
   A full stack developer who loves building web apps and learning new things along the way.  
   <br>
-  Currently, I am learning Linux/Shell Scripting, AWS, and trying to build some cool stuff 🐧
+  Currently, I am exploring Cloud & DevOps to build scalable and impactful systems 🐧
 </p>
 
 ---
