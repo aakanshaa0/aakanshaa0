@@ -6,8 +6,6 @@ I primarily work with JavaScript/TypeScript, React, Node.js, and modern backend 
 
 ---
 
-<img align="right" width="180" src="https://media.giphy.com/media/paoX8smVvbggCXLu80/giphy.gif" alt="coding cat">
-
 ### What I Work On
 
 - Full-stack web applications
