@@ -1,41 +1,48 @@
-<h1 align="center">Hey, I'm Aakansha 👋</h1>  
+<img align="right" width="180" src="https://media.giphy.com/media/paoX8smVvbggCXLu80/giphy.gif" alt="coding cat">
 
-<p align="center">
-  A full stack developer who loves building web apps and learning new things along the way.  
-  <br>
-  Currently, I am exploring Cloud & DevOps to build scalable and impactful systems 🐧
-</p>
+# Hey, Aakansha this side!
 
----
+Full-stack developer and AWS Certified Cloud Practitioner building web applications, backend systems, and AI-powered products.
 
-### Tech I Use
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,linux,aws" />
-</p>
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="40" />
-  <img src="https://ui.shadcn.com/favicon.ico" height="40" />
-</p>
+I primarily work with JavaScript/TypeScript, React, Node.js, and modern backend technologies, with hands-on experience building and deploying full-stack applications.
 
 ---
 
-### GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aakanshaa0&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakanshaa0&theme=tokyonight" height="150"/>
-</p>
+### What I Work On
+
+- Full-stack web applications
+- Backend services and REST APIs
+- AI-powered applications and integrations
+- Cloud deployment and developer tooling
+- Authentication, databases, and application workflows
 
 ---
 
-### Find Me
-<p>
-  <a href="https://aakanshapande.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aakansha-pande-666ba6285">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aakanshapande0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+### Tech Stack
+
+- **Languages**: JavaScript, TypeScript, Java, C++, SQL
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express.js, Spring Boot, REST APIs, JWT, OAuth2
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **AI / GenAI**: LangChain, RAG, Google Gemini API, Embeddings, Vector Databases, VapiAI
+- **Cloud & Tools**: AWS, Docker, Git, GitHub, Linux, Postman
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/aakansha-pande-666ba6285/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://medium.com/@aakansha0">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+
+<a href="mailto:aakanshapande0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </p>
