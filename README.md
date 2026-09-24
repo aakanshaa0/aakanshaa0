@@ -2,8 +2,6 @@
 
 Full-stack developer and AWS Certified Cloud Practitioner building web applications, backend systems, and AI-powered products.
 
-I primarily work with JavaScript/TypeScript, React, Node.js, and modern backend technologies, with hands-on experience building and deploying full-stack applications.
-
 ---
 
 ### What I Work On
