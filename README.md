@@ -1,5 +1,3 @@
-<img align="right" width="180" src="https://media.giphy.com/media/paoX8smVvbggCXLu80/giphy.gif" alt="coding cat">
-
 # Hey, Aakansha this side!
 
 Full-stack developer and AWS Certified Cloud Practitioner building web applications, backend systems, and AI-powered products.
@@ -7,6 +5,8 @@ Full-stack developer and AWS Certified Cloud Practitioner building web applicati
 I primarily work with JavaScript/TypeScript, React, Node.js, and modern backend technologies, with hands-on experience building and deploying full-stack applications.
 
 ---
+
+<img align="right" width="180" src="https://media.giphy.com/media/paoX8smVvbggCXLu80/giphy.gif" alt="coding cat">
 
 ### What I Work On
 
